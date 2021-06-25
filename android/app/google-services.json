@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397765914183",
+    "firebase_url": "https://test-148b4.firebaseio.com",
+    "project_id": "test-148b4",
+    "storage_bucket": "test-148b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397765914183:android:4165a99eefbae6f7a28b62",
+        "android_client_info": {
+          "package_name": "com.example.murcuryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397765914183-a0vi9e02hgt9njke2l580h65vluv9lgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjFRuP-kOI73keXKjg9dL9UdkG8uJhIgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397765914183-a0vi9e02hgt9njke2l580h65vluv9lgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
