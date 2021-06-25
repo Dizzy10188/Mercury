@@ -1,4 +1,4 @@
-# murcuryapp
+# Mercury
 
 Chat App
 
